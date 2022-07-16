@@ -5,7 +5,8 @@
 ![Badge](https://img.shields.io/badge/status-finalizado-green?style=flat-square)
 
 ## About
-Description
+Subscription blog using NextJS, Prismic CMS for content manegement, Stripe for payment handling and FaunaDB.  
+App created at Rocketseat's Ignite course.
 
 ## :pushpin: Table of contents
 
