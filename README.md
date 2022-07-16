@@ -34,7 +34,7 @@ App created at Rocketseat's Ignite course.
 
 ```bash
 # Clone repository into your machine
-$ git clone https://github.com/millenabomtempo/
+$ git clone https://github.com/millenabomtempo/ignews.git
 
 # Install dependencies
 $ yarn install or npm install
