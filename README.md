@@ -6,6 +6,7 @@
 
 ## About
 Subscription blog using NextJS, Prismic CMS for content manegement, Stripe for payment handling and FaunaDB.  
+Later in the course we tested the aplication using React Testing Library and Jest.  
 App created at Rocketseat's Ignite course.
 
 ## :pushpin: Table of contents
@@ -29,6 +30,8 @@ App created at Rocketseat's Ignite course.
 - [FaunaDB](https://fauna.com/)
 - [Prismic](https://prismic.io/)
 - [SASS](https://sass-lang.com/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Jest](https://jestjs.io/pt-BR/docs/getting-started)
 
 ## :computer: How to run
 
